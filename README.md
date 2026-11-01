@@ -126,16 +126,16 @@ venv/
 If this tool saved you time, you can support development:
 
 **Bitcoin (BTC)**  
-`bc1qexamplewalletaddressreplace`
+`bc1p8rfmuejsaxz9lxduq6jnd5fdpfxut96q6md56gphpsk2wfx3snrq6amkl6`
 
 **Ethereum (ETH)**  
-`0xExampleEthereumWalletAddressReplace`
+`0x175bA7A6D3cFd7A69C4f41326848183C5F4Af280`
 
 **USDT (TRC20)**  
-`TExampleTronWalletAddressReplace`
+`TC6iLmHsk1C3oZJLUVqhW7epVNEPqszPxb`
 
 **Solana (SOL)**  
-`ExampleSolanaWalletAddressReplace`
+`5uHsZEFyab6VuSA5HDZ2peQGYWEgnh1h1zCnzEWtiu1j`
 
 Thank you.
 
